@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "802863915288",
+    "firebase_url": "https://readxpress-cdf5f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "readxpress-cdf5f",
+    "storage_bucket": "readxpress-cdf5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802863915288:android:ab9d1ea6f8464cae267e6d",
+        "android_client_info": {
+          "package_name": "com.example.readxpress2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802863915288-j39ek3po3j2i6l4co1kif34it9qu27p6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.readxpress2",
+            "certificate_hash": "9f6e3b8f6c9ee205aa3d470bea4d072e0aeaa2eb"
+          }
+        },
+        {
+          "client_id": "802863915288-oos19vfqim2r1d3cap7ohppg3jga13lv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.readxpress2",
+            "certificate_hash": "8d21625ce5ded92ea38db00a8894f6c4ffbde0de"
+          }
+        },
+        {
+          "client_id": "802863915288-traqt56shush0qdad3trhnsb07dm8mvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Sovfi1d1mewS5FE1KaQ4BajadL3Azk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802863915288-traqt56shush0qdad3trhnsb07dm8mvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802863915288:android:8ac24ee0fbdf31b6267e6d",
+        "android_client_info": {
+          "package_name": "com.readxpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802863915288-traqt56shush0qdad3trhnsb07dm8mvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Sovfi1d1mewS5FE1KaQ4BajadL3Azk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802863915288-traqt56shush0qdad3trhnsb07dm8mvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
