@@ -9,4 +9,5 @@ ReadXpress is a cross-platform ebook reader designed to support individuals with
 - ✅ **Figma-Designed UI** – A clean, user-friendly interface  
 
 The Demo APK can be found here : https://drive.google.com/file/d/1HObj_CZf4xXDVtzxQuFk8GPjJQ2tfHrs/view?usp=sharing
+
 Figma design : https://www.figma.com/design/IOb2WxQ9LYWiBndnbeJJKD/ReadXpress?node-id=0-1&t=qsqpQmUQB8t5EOF4-1
